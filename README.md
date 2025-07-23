@@ -45,41 +45,7 @@ Edit
 npm start
 Open http://localhost:3000 in your browser ⚡
 
-📁 Project Structure
-php
-Copy
-Edit
-travel-list/
-├── public/              # Static assets
-├── src/                 # React components and logic
-│   ├── components/      # Individual reusable components
-│   ├── App.js           # Main app container
-│   └── index.css        # Global styles
-├── package.json         # Project metadata & scripts
-└── README.md            # This file
-📦 Usage Overview
-Add Items: Use the form to insert item names and quantities.
 
-Toggle Packed: Click the checkbox to mark as packed/unpacked.
-
-Delete: Remove items using the delete icon.
-
-Clear List: Reset everything using the Clear button.
-
-Stats: View total vs packed items and completion progress.
-
-💬 Contributing
-Contributions & pull requests are warmly welcome!
-
-Fork the repo
-
-Create a feature branch git checkout -b feature/YourFeature
-
-Commit your changes git commit -m 'Add some feature'
-
-Push to your branch git push origin feature/YourFeature
-
-Open a Pull Request
 
 Thanks for helping make this useful! 🙏
 
